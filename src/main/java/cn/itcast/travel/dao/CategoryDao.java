@@ -18,4 +18,6 @@ public interface CategoryDao {
      * @return
      */
     Category findOneCategory(int cid);
+
+    //这是Git测试代码
 }
